@@ -25,7 +25,7 @@ A professional sports coaching feedback system for analyzing and evaluating athl
 - Lucide React
 
 ## Getting Started
---------------
+
 1. Clone repository:git clone https://github.com/weartechlabs/2024-11-coach-giving-feedback-website.git
 cd 2024-11-coach-giving-feedback-website
 
@@ -42,7 +42,7 @@ npm run dev
 npm run build
 
 ## Project Structure
-----------------
+
 src/
   ├── components/        # Reusable components
   ├── pages/            # Page components
