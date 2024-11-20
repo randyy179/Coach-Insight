@@ -41,16 +41,16 @@ npm run dev
 5. Build for production:
 npm run build
 
-## Project Structure
+### Project Structure
 
-src/
-  ├── components/        # Reusable components
-  ├── pages/            # Page components
-  ├── store/            # State management
-  ├── types/            # TypeScript types
-  ├── config/           # Configuration files
-  ├── data/             # Mock data
-  └── App.tsx           # Root component
+* `src/`
+	+ `components/` # Reusable components
+	+ `pages/` # Page components
+	+ `store/` # State management
+	+ `types/` # TypeScript types
+	+ `config/` # Configuration files
+	+ `data/` # Mock data
+	+ `App.tsx` # Root component
 
 
 
